@@ -1,0 +1,55 @@
+body{
+    background-color: aquamarine;
+    margin: auto;
+    text-align: center;
+    border-style: double;
+    background-color: aqua;
+    border-width: 10mm;
+}li{
+    text-align: end;
+    border-style: double;
+    border-radius: 10%;
+    border-color: aquamarine;
+    border-width: 10mm;
+}ul{
+    text-align: center;
+    border-style: double;
+    border-radius: 10%;
+    border-color: rgb(149, 0, 255);
+    background-color: rgb(201, 61, 133);
+    border-width: 10mm;
+}ol{
+    text-align: center;
+    border-style:  double;
+    border-radius: 10%;
+    border-color: rgb(149, 0, 255);
+    background-color: rgb(201, 61, 133);
+    border-width: 10mm;
+}header{
+    text-align: center;
+    border-style: dashed;
+    border-radius: 10%;
+    border-color: rgb(149, 0, 255);
+    background-color: rgb(201, 61, 133);
+    border-width: 10mm;
+}main{
+    text-align: center;
+    border-style: ridge;
+    border-radius: 10%;
+    border-color: rgb(208, 251, 143);
+    background-color: rgba(0, 255, 221, 0.777);
+    border-width: 10mm;
+}footer{
+    text-align: center;
+    border-style: double;
+    border-radius: 10%;
+    border-color: rgb(162, 255, 0);
+    background-color: rgb(20, 236, 56);
+    border-width: 10mm;
+}img{
+    border-top-right-radius: 25%;
+    border-bottom-left-radius: 25%;
+    border-bottom-right-radius: 10%;
+    border-top-left-radius: 10%;
+    border-style:initial;
+}
